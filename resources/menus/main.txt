@@ -1,0 +1,9 @@
+==================================
+Bienvenido:
+@CLIENT@
+===============Menu===============
+1. Consultar saldo
+2. Retirar efectivo
+3. Historico de movimientos
+4. Salir
+==================================
